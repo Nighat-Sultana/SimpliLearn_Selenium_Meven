@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T23:59:29 EDT" name="Suite" finished-at="2022-09-17T23:59:52 EDT" duration-ms="23320">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T23:59:29 EDT" name="Test" finished-at="2022-09-17T23:59:52 EDT" duration-ms="23320">
+      <class name="testcases.SimpliLearnLoginTest">
+        <test-method is-config="true" signature="DataSetUp()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:29 EDT" name="DataSetUp" finished-at="2022-09-17T23:59:30 EDT" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSetUp -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:30 EDT" name="SetUp" finished-at="2022-09-17T23:59:34 EDT" duration-ms="3997" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SimpliLearnLoginTest.Test2(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Test2(java.lang.String,java.lang.String)[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:34 EDT" name="Test2" finished-at="2022-09-17T23:59:37 EDT" duration-ms="2833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abc@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:37 EDT" name="TearDown" finished-at="2022-09-17T23:59:37 EDT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:37 EDT" name="SetUp" finished-at="2022-09-17T23:59:39 EDT" duration-ms="1702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SimpliLearnLoginTest.Test3()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Test3()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:39 EDT" name="Test3" finished-at="2022-09-17T23:59:42 EDT" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:42 EDT" name="TearDown" finished-at="2022-09-17T23:59:44 EDT" duration-ms="2433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:44 EDT" name="SetUp" finished-at="2022-09-17T23:59:46 EDT" duration-ms="1941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.SimpliLearnLoginTest.test1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="test1()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:46 EDT" name="test1" finished-at="2022-09-17T23:59:49 EDT" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:49 EDT" name="TearDown" finished-at="2022-09-17T23:59:52 EDT" duration-ms="2444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="DataClean()[pri:0, instance:testcases.SimpliLearnLoginTest@2c1b194a]" started-at="2022-09-17T23:59:52 EDT" name="DataClean" finished-at="2022-09-17T23:59:52 EDT" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataClean -->
+      </class> <!-- testcases.SimpliLearnLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
